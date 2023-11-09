@@ -1,0 +1,49 @@
+
+<!doctype html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+
+        <title>Blank template</title>
+
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+
+    <body>
+
+        <h1>Descriere Personala</h1>
+        
+        <!-- Load external JavaScript -->
+        <script src="scripts.js"></script>
+        <p>Nume: Baciu</p>
+        <p>Prenume: Petru-Rares<p>
+        
+        <img src=""C:\Users\baciu\Desktop\IA_lab\CV_lab05-06\rares..jpg"">
+
+        <p>"Învățarea este singura comoară pe care nimeni nu o poate fura." - B.B. King<p>
+        <p>Discipline dorite:<p>
+        <p>⦁	Sisteme cu circuite integrate digitale- anul 2 <p>
+            <a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/27.pdf	
+">https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/27.pdf	
+</a>
+        <p>⦁	Sisteme cu circuite integrate analogice - anul 3 <p>
+           <a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/30.pdf	
+">https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/30.pdf	
+</a> 
+        <p>⦁	Circuite analogice de înaltă frecvență – anul 4 <p>
+            <a href="https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/55_10.pdf		
+">https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/55_10.pdf		
+</a> 
+
+        <p>Hobby-uri<p>
+            <p>⦁	Înnot<p>
+            <p>⦁	Fotbal<p>
+            <p>⦁	Scriere de  poezii<p>
+            <p>⦁	Ieșiri în aer liber<p>
+
+    </body>
+
+</html>
